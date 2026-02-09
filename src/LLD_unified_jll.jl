@@ -6,5 +6,5 @@ Base.include(@__MODULE__, joinpath("..", ".pkg", "platform_augmentation.jl"))
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("LLD_unified")
-JLLWrappers.@generate_main_file("LLD_unified", UUID("fbc507ec-cd81-588a-baa9-9847e80d13e9"))
+JLLWrappers.@generate_main_file("LLD_unified", Base.UUID("fbc507ec-cd81-588a-baa9-9847e80d13e9"))
 end  # module LLD_unified_jll
