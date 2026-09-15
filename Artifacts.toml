@@ -6,7 +6,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "18d7705dfa0eeb79433c6b3704562a318c5ad5c6d90ae1727dc6d343bf7789de"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -17,7 +17,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "8866816958ed300620bcbf7a049c8034f90086e41bde1d2ed9e141c774ad3215"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -28,7 +28,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "7d9cfa52b35d113fb94a83f6c0a8b1a83ed7e2538cfb2c1f1a1ba6c51f05ea04"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -40,7 +40,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "130b518962457adf6a2dbc48a588e3895a16996b6d2e3e34e410f33d1eba39da"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -52,7 +52,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "11da1be7c2ced0ccde7244548768c3701ce7ab91e8d6f5e46883c0bf73e47065"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -64,7 +64,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "7a65ce317cc0dd7ffa2e8c46b0d549d6c871c9da34cafb9ac36ed5aa30b093eb"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -76,7 +76,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "5669d8a9c55ae4894b9eb74d9e87f8aed045e248345df05a6fabce34a2e278c0"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -87,7 +87,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d3dddb939f4a03d229ca6741f61c6b11c9e5c4aaddf8d778f3a38d01529c8ffd"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -97,7 +97,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "40e7e8c32183d8f37574c284b1af70fa758d2197348b63d77b51afabe8db623b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -108,7 +108,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "eec3df5eca6169f045005fe482c4028da91297335dd85c1152284d583722caac"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "8550e14bf2b0d4fe79190804f52c24c07e63143c"
@@ -117,7 +117,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "6fbfb034333977432b66854700cdad88e5f0b15aceb201b9b06c9052d553ed28"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -128,7 +128,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "095cda9edcc8f598a1f2e2660be58ffb445ce388d35840f6fbe0ec2613b5a0ef"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -140,7 +140,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "095cda9edcc8f598a1f2e2660be58ffb445ce388d35840f6fbe0ec2613b5a0ef"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -151,7 +151,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "987985e301d6e745c446bfcb8893998be70dcc692b48ea69f9a38774e0231bd8"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "009c7c53eb097d94a1b5d32c1c415744bc2d803d"
@@ -160,7 +160,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "cd49f0dcb5cd847b8e07af50bbd228d3e039c790214b0d3d31e720c29baf4f37"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -170,7 +170,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "f0ae2deee8dd9cda686eba34c9ba38537b967e73c333dde8de7fed42667e3687"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+15.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "7d99ceebbf866c43431ca6ddb98787df6c02ffcc"
@@ -179,7 +179,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "6152f1f4c5b7a9e26f9c9de8a1c26c09367fe5c7c62800de8737a3108f572890"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -190,7 +190,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "07aef7862ef0153635c63d41d6b2458922d318404abef2b9949bed1314d366d7"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -201,7 +201,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "76a259e3c6f17b164913e6e210daa98087e6d11487d07265305221f67dfe720a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -213,7 +213,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "e0324e139357e13319299f59011f03082189922f305637017d86c256883529bc"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -225,7 +225,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "fae8a9fd5e10ba64a54c719d4fcb935598b13ae14a01a3df97d8db47c619508c"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -237,7 +237,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "8f5de79eb1333068d92158263c8bd4c71f58f69f9a958754c7237410cbdfe93e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -249,7 +249,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "4281379cb7bd69dbbab68603af4949bf6d7da7d0176aa5b04053f5e17bb70912"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -260,7 +260,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "066e29dafbc2857198fbbf893e22a27ca7f92279ffbf00bd2221ed78e2e03f13"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -270,7 +270,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "78710e0ec7b798bb2fa91c26509dca5b76ede957c0f4b980e451486a489bc0b1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -281,7 +281,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "99f3cc087d1318908013a6b76c8ac2b8f31ee58b86bdad5f5fc8dc63ec351f3b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "2034613d36eae5502d77d0202adac02a82766c53"
@@ -290,7 +290,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "e46bf03f42d5a9df02a09bda3773085415435bf70fff152c8a1bdb4b36814613"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -301,7 +301,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "539fc017b28b3a268b48a89799c557001eaa0d2ac574aa36aef013b7af012956"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -313,7 +313,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "539fc017b28b3a268b48a89799c557001eaa0d2ac574aa36aef013b7af012956"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -324,7 +324,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "206b01fb8ca76e7e04f758804c2feb0157c961c7a56bf28cb3c2f94866c37be1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "970c2a362bd8898f393c12effe2e98c74229db41"
@@ -333,7 +333,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "d5ca6dbc20d04935764a8b08eb4143d9660487d240ce5a9d8ec85545a93dab01"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -343,7 +343,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "4667dd5ffc9afeeee2368910b9d6abf1f7321b09009336b609afd4f6ea55021b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+16.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+16.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "71b82578526149cefc387ade5a1d01046c4311c3"
@@ -352,7 +352,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "63fe3cbe9e40d3f1eebb9e6c77eeb54f9237c0c863d0cd90bbdd85e17d746b87"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -363,7 +363,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "c405bac50fea28600327cbc603232fd9980e03b1af05b0d26157745b66d08bf3"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -374,7 +374,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "a0172c09580ec9eb70eaf28756e0a004117eb4f1adfcc820f5c818fc128f4708"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "99bd235f6a29abb2c6625f4e552ca1b1ce0c3c4f"
@@ -383,7 +383,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "413d8e93d617b2a36a7934fd3dd153fa3c859ad0c5fe8b141ba238790e08619e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-unknown-freebsd-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-unknown-freebsd-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -395,7 +395,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "ec238d033eac66c7fd18663519d238d9ff741b526b35838f995ae18b7d71ca4f"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -407,7 +407,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d15706c15c83500a01f07822395e1d94c5793108586961c3bd6988e2fc25059e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -419,7 +419,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "9c55df0e0c1d926fbd4ef92dddda9ad51880e7f5cf365e8177aaa9a3443ec780"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -431,7 +431,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "6cf27f20d2bd645518ef36f6d973a3fe5f7397ec2c4e4f0d09748d3d5fb88ffb"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -442,7 +442,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "202e2764ef2a4e9849d45e9b149149600cc82d04cbd6f7f1293cd811f703d6d1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -452,7 +452,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "6d6152a29d46f15652f5bca55c3e7703e77661ebc26798550f67d18f346cff79"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -463,7 +463,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d38eb450c864a4a8cc93ad517acdc6eaf36020d866b263f440f01558fcaebb44"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "d559095bc6c0853bc52b7dca4ab54e550a5cb616"
@@ -472,7 +472,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "bff4b2f55119aa4bfbf58e7e027460768f2836015c103124dc7af6b877446258"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -483,7 +483,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "f06b808a777790c717561aa6bb9d503bb2d1705cf681666e421e2919c9de657a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -495,7 +495,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "f06b808a777790c717561aa6bb9d503bb2d1705cf681666e421e2919c9de657a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -506,7 +506,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "f31b7dfdac8ccb62356d561fa528db7c6973822cb4b05964104f1058d974257b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "76c592e8c91e50332f7f0c410101459b02224bb9"
@@ -515,7 +515,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "d0b3221c27cb053eef073c89a1402812e5c5f609db4b8be80463c01559851855"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -525,7 +525,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "0d403955ecb001a17408308e0c4bda484e2c166e47ebca389219b172f23096a6"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "df09d5e4a38283bbd3ca7a66ef10caf022e96f56"
@@ -534,7 +534,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "9b4500fcb3c119e8f91bc28be674d3e095e1c9c4e19449e2b71b43d410255ca5"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -545,7 +545,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d544b171dfe84d2f74f63dc97fe8341a51f66422ecfd50e2b6d5f14d2f243522"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -556,7 +556,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "2c3d3f750f41b1a88351e5f36527707424358df3e156aa685cf7f74140577c12"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "3ac6284845a11aab50e72feb58f12327b57db81b"
@@ -565,7 +565,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "2409196bea9d81a9129d78000f9e49b97b2a32da9dc79952716bf0bef9bad33b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-unknown-freebsd-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-unknown-freebsd-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -577,7 +577,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "4b0c717a169e1ffa44761311cf33b30bd0832223d550fee3fff99b3e0eb24e19"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -589,7 +589,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "9ea3ba1bc440a8115f468ea367efad7cb896540d266970f1f5fac297d932826e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -601,7 +601,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "4448991cca94bfb166bf964ce90dd81deadcd9318783e5b6f84ec5f32ff2ed57"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -613,7 +613,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "ad256b8377ced78fb22dd7283d9362c2fcf03e3fbd8ee5adab73201d982c6036"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -624,7 +624,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d0392bffd0e2c0faefa350fb82e7b931c8a46a1addf646f7855dcacdd392b2ac"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -634,7 +634,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "09996cf537cb2571391fb4852663ecd35e195efd2fdd6ac00a073d4b890d4ec8"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -645,7 +645,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "145cce49b3375fabb1236309cf08c6c945ef63f70d3158f2500065e83e0b9b52"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -656,7 +656,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "4e8ebec72b5d6db6af60ecebce0bafd5a2102ece8eac42a53bab383ea19c5fa9"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.riscv64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.riscv64-linux-gnu-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "b6316abbb17ea0a4377fa6ce0ec6187e420c26e2"
@@ -665,7 +665,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "ff0daa906da1ea2902e1816e23948389f1a9f05d0a712c073e89a015e7405e76"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -676,7 +676,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "9a6231f3d5e2144ab826196b5dd3157cb3f7dde43aaa85a78a6036361d7685c1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -688,7 +688,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "9a6231f3d5e2144ab826196b5dd3157cb3f7dde43aaa85a78a6036361d7685c1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -699,7 +699,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "cb4ea94c6c12a8bbacaacb7b277694b980db69286f62ac09965a6468bb6887a0"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "6eeb4df002e8dc6e878dd5b679a7fef7fa981fce"
@@ -708,7 +708,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "5937919b7ec4049ec834ece2369e0560fb02fcf31cf5e7e475b6bd321bed758d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -718,7 +718,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "e08d3e2bde5c327fb5c9e26d77d64e0f2e934bf444b15baa0f14463e26daa39f"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+20.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+20.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "9ac7dfd5ff9f25f7dcc1a1c53301b0b8b0f2d876"
@@ -727,7 +727,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "96961e705c64954ddaf96ee5184b4b666060cbabcce089e6c254c5d6004d2390"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -738,7 +738,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "b7cf43193ee4eddc6157d567c218a7b0f454f68df17cd33b65079e82ef53f943"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -749,7 +749,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "0d03f60aa27204ee97a23b9e827ffc0f414252603c3bc20366e6be09ab6433d9"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "1192f897ede23114e63f0a6305754d348884b6cf"
@@ -758,7 +758,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "7e44f2156d075d5ef0da78cab28bd2d0c11c461dc5438b0e9611876caf6774f2"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-unknown-freebsd-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-unknown-freebsd-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -770,7 +770,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d8eba7a31e11744482caa4a831fd40e26bbf6b3a6ff248112d4f92be25e41908"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -782,7 +782,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "5ab3177361c4a693d838d55b7dfcdbdf6b51448f45e6b557b6f2a7a9fbdc18d7"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -794,7 +794,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "ddfa15ff3f8661072b3d6dbc0af70012dea1237f4a405feb070e736b9264972e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -806,7 +806,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d627724657c27e965d3c9dbd45d99833cfc65d0daa7735216da9fefca61ee2ee"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -817,7 +817,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d644e2868672e99fdc55e4936d857f6719c07563e87645458b5cffc40e0ca889"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -827,7 +827,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "935ea5238974dda37c07209c46a7746522f51858099dc92c84a558e02e0316eb"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -838,7 +838,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "8936b4229614ea1489ae2a13230dc8209766be803f08382baf81db2a35bdc233"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -849,7 +849,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "14ea107722e0f7b80258de6a49e7783df87873d391a93093e54ad09fe3cbc864"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.riscv64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.riscv64-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "c6f8c4c5340c7c0348c88b1c984004710b3f3405"
@@ -858,7 +858,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "bee24fd221f7b7a5695a293e1ecff5f3572a6f120fe1aa1d0010b4aca1134fc0"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -869,7 +869,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "19dc82de8afec0400e7e7e2aa1f1c93b9ea18470e578d3d2964d269b36c40207"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -881,7 +881,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "19dc82de8afec0400e7e7e2aa1f1c93b9ea18470e578d3d2964d269b36c40207"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -892,7 +892,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "29410a6d0a4f48b4270ff2e79bb90e7635d4fa44c1d7204fc0d2af178a7abc8a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "786f5781e8909dd38c5c40bf153c9548bb371966"
@@ -901,7 +901,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "a13c173f42c74c7c594f6e60b551a1958efb973c7534f9e884d8b2938cdd870b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -911,7 +911,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "930944f6d70cd8b0bedfd10c37b86e8d286e5cdab20d57366972a9c53667d77b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+21.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "61b539b410b3f18f7693d1e01a8b6fb399509d81"
@@ -920,7 +920,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "dc5ca631065a71fa93ed80644fbe3c8fdb115f959a0a94191d191e4fc3c30409"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -931,7 +931,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "a3bb002757cd1e399ed0391a81ad6a3c3a492485d08791b26fcd7c9c7cc6ff96"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -942,7 +942,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "362c0d7f57e7272876ecfe696cc7186ef7acef4d705486eeaf1507952cec3107"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "af294da838b2304104a3f45269f0dad98a5d57ca"
@@ -951,7 +951,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "bca221693f54a133ac7b34bdb1381d351d869b686bdf88176a25c8c75ecdfbce"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-unknown-freebsd-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-unknown-freebsd-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -963,7 +963,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "18d3ba55797866bc5db48bf6be6583371d18a54585147880e533b0e9b1319950"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -975,7 +975,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "89c2ef3b590dd732576a23f19bdb0ae17620bd7d4f7715f9d9c2df09793b47a1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -987,7 +987,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "640e86b46deec7adadf81d52e83aff0633aea1f5954f617f5a5625fb7a3fec48"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -999,7 +999,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "3e7b1d6379deda3e24e942ec92c1359cd3dbd7d30159c52369f72a2c2c25fb76"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1010,7 +1010,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "9e4bcad1449f1ee667aa6bd533c4c4dc9ef4445aaaf662ee2d45bfcdd1809d6a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1020,7 +1020,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "7cd362cdcc90d34974d35f9e0e50dabbf43abf18e18db8a2a76e15f251d34fe4"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1031,7 +1031,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "1069b6b75f447eecb89662e00fec3085c15b99877d62713fe6f75d6a5cff2894"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -1042,7 +1042,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "00a19d43c7a42bfd3b8e1d03945e55572dab94496241daf9f2bb83f9c2f96d26"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.riscv64-linux-gnu-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.riscv64-linux-gnu-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "694c0402d1cccef599ade6fcd57cf54745ef8b97"
@@ -1051,7 +1051,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "a4992b23cb68ef7f44bd22456e65d492a5eb6b473d4db39e0c868e3dcc944e63"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1062,7 +1062,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "b92410d22630caebffbfc1ce0e9e5cb878735188d4cba1d225c0f4fc5b819c01"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1074,7 +1074,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "b92410d22630caebffbfc1ce0e9e5cb878735188d4cba1d225c0f4fc5b819c01"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1085,7 +1085,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "58e96ea0fb290088cdaad62bf3b0d15724f1d92eb1171173b1ca31633c152527"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "455429e7100381987e2c19647acf63715ec44f1e"
@@ -1094,7 +1094,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "b35b93f1d2aacd123ce3429bf5e8dead5aef24c91c3ff14175a278f4abecabb5"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1104,200 +1104,200 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "dd664013b90894e932e35522c8699be1f01c0e6c26f0909181b3b7bc98ab1083"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+22.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+22.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
-git-tree-sha1 = "d531c65f8a7fbcdbb09f810934d15a898cdc2cd8"
+git-tree-sha1 = "3aec25989c0c8e7b05feed81cf7ca373599a334e"
 llvm_version = "23"
 os = "macos"
 
     [[LLD_unified.download]]
-    sha256 = "85aa85463cd096ea91ff3bb1a1d479c7524af4ae7a4794c485146d21a65e5de0"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+23.tar.gz"
+    sha256 = "a797a09d6cc8c76e7a800fe6fd112039fe90103f309f4c64db7c5561d33b72a0"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8a42b503491a7fa20fea7847d0ac835fd997ac5e"
+git-tree-sha1 = "94efa79297c3c1ee53689d3f17c5b62c8afc1d37"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "3eaa7fd37d335c5cc028248b81d9573fbd4ded135e7fe809b21e4ead66d83b1b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    sha256 = "6666c92a9949a0caca7c55736e5f014b48b107a9c588ffba55f47c517c5cbebd"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "96e65df7ebebf3d6a97c46380d052b8e3761c693"
+git-tree-sha1 = "f47ea7f77c12a20c4700de47289e18f0d6fc5039"
 libc = "musl"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "275900c532c23eca635448796a3a316571db394eb651ee4ec56ae37a24a32c70"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+23.tar.gz"
+    sha256 = "0a2250082ea1e59501ef3cf2c4fe32ef5020e03850a57eef9117f3e1f21572df"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
-git-tree-sha1 = "71db09c737d337f7dbcb853b9d38182a679323d5"
+git-tree-sha1 = "8cb83fd2817e265c61f95018e1a746043feddee3"
 llvm_version = "23"
 os = "freebsd"
 
     [[LLD_unified.download]]
-    sha256 = "010ec20f06ab12ccb6cae9839631713a0c3fe861ccb3132f85b9b526e84f2edf"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-unknown-freebsd-llvm_version+23.tar.gz"
+    sha256 = "320fec44bcf39b498b35c306185adacd163a1974534b84ba102968e7cb6289d4"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-unknown-freebsd-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1e5f7a67a6a825f1725efa1cc90cef9747442e6"
+git-tree-sha1 = "e17102f2ab095759e49c49ad12bfc594f103740c"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "7e72a09157b88378f1dd47e24c3ad0b3b434285ad644eff2fd79b258c1e8e0f5"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
+    sha256 = "7730f70c59de9240eda18205ded019782a4e06f3c1184c1255e31ce53d2375ec"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "45aa7f31eb1df6439211bc5d1752a16a9ee326b3"
+git-tree-sha1 = "1da77d10bc10eec4dc65fcaa231f8c900fae2229"
 libc = "musl"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "474a69d5fc9bdf2e077f74c966edb946a175fe636e2bc98b73acb959a1c5303c"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
+    sha256 = "dcd2a3a95034690d208aebff237428fdc16df8767264dab24ca52fe3f16765ba"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d20428cd8dc14b0c7a8f29abc1a821022c7f1617"
+git-tree-sha1 = "a6a069275939effdd2d0b3146f8318b0d15b1fd0"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "316698c7d5ef7e4cea855adb8d9cd358c6f48018bcf4260b567ba2ded79ad27d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
+    sha256 = "d81c01ccadaac9175ccfc7591e6a38644e58293869ef5c3f83fbf9b35a65fea0"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "84de946f3b0b3a22d562ff692597e31da0ac3eb8"
+git-tree-sha1 = "ec4768b1719bac5d2be73f3e341018f26bbd5457"
 libc = "musl"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "5e24d893358d2f0944e0d90fb257aff80fe21bc45be16fe35f0e274aaa2f4048"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
+    sha256 = "4ebfdfea42d8ef7de1bd4aabb219e44e4c104224b475741092c0bd6783ecb1b9"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e6f63de6bc6f349ff2c87af4a854151b2c0d18b0"
+git-tree-sha1 = "e476cc0bdaffbfbf90b18b1d3bfa120ef26ce441"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "609f334e0ade1072c5473871833e044fbec9a07220ea767e91fac608d8d27b0b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    sha256 = "9a25983cfd7b1736570d976456310f0b0473960e465138711651ee7009b663d0"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "68bb690af947c705dcf6a025287fd2fcc220bae3"
+git-tree-sha1 = "7a991f10cc2c9559ec09fb3dd8b9f4c31f6ceb40"
 llvm_version = "23"
 os = "windows"
 
     [[LLD_unified.download]]
-    sha256 = "9051796282b9bbd1aad9e6305fcb33ffe568e40c8946d6ccea26688096187067"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+23.tar.gz"
+    sha256 = "217d1e869c2e79bf0bb157bf6a92e60756e0544876b882e86385e813785dbcb2"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "372ec31bf62e8e462190d8245ad9ffcbdebbd9f5"
+git-tree-sha1 = "1f46416770b7c0da29a4ebe78f1f6a3969deeaf5"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "98f8f51292a94552b91a1cd7bb6c1fe097b88e80e1c0cbc2171f76c9f71ffae0"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    sha256 = "293abcd6a7569ee115dce10b8cac609726b146cd738ea35532061dec604d9080"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc8c70821955a1d50a514113e6586e9e79f4d095"
+git-tree-sha1 = "848a1ace8b77db8a857937e6ef80ee7042b0b81d"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "00a198379e9056eab7ff4efbe3093a1cc3ecc3b32dc9bade00d859778aedd0a5"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.riscv64-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    sha256 = "97132238f37e254684fb606fbc16f959dc16098d13862d8186e67fe8486ce3df"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.riscv64-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
-git-tree-sha1 = "3964deba875febcb5c5d2aad134f4e90aacc92b5"
+git-tree-sha1 = "9948571e0848bf7b76dcc97b5c392da1dfcaa34e"
 llvm_version = "23"
 os = "macos"
 
     [[LLD_unified.download]]
-    sha256 = "abda1bd0c93340817382bdb3c63dcf06b96ba483e250efd6c2f7fb2afc6cc388"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+23.tar.gz"
+    sha256 = "f90e1952712de1fea76373be5852eb0ac4b5227845c220cb0c43f63194d5fd65"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "580dcaab7eceeead4d27ff6cc74ba71d4f5665a3"
+git-tree-sha1 = "db3fcbb341c4ad64009e07c6b739688b21f420cb"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "9e2b79a98c1315404cfd58cd9f5a44cdcd4845d0c7018b870eec0c3792d90e44"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    sha256 = "c021406e9635b84d1b52a7642478d34867a914c63055ba6581504930bd704e97"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "580dcaab7eceeead4d27ff6cc74ba71d4f5665a3"
+git-tree-sha1 = "db3fcbb341c4ad64009e07c6b739688b21f420cb"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 sanitize = "memory"
 
     [[LLD_unified.download]]
-    sha256 = "9e2b79a98c1315404cfd58cd9f5a44cdcd4845d0c7018b870eec0c3792d90e44"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+23.tar.gz"
+    sha256 = "c021406e9635b84d1b52a7642478d34867a914c63055ba6581504930bd704e97"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3fc02eae9ddb807b56ce404435fe679b1572d8db"
+git-tree-sha1 = "959783257d19ae426282d206dabd50e521002afa"
 libc = "musl"
 llvm_version = "23"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "ab657b322251b2c929be286c33fd73e7eecbc0d016fd0ffcbb56feb3c1ea8a5b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+23.tar.gz"
+    sha256 = "03c912994ce62541c2271d28d3fa0bff3e09b060068104f18205f80fb71110fe"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
-git-tree-sha1 = "07aafd510e7b907b2fe23237d7160b8127cc86d3"
+git-tree-sha1 = "e109a9c2f6ef4fa776c40b32f639f11a72158b17"
 llvm_version = "23"
 os = "freebsd"
 
     [[LLD_unified.download]]
-    sha256 = "e77a1264f9f4cdf9ea8ef4c7fb5d01f2199f31470540bbcfaa50f1e9e1b07a26"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+23.tar.gz"
+    sha256 = "3cfeb9238710120e89f5c17bf997bae88d68c5a1fb92125186f99fa6af0e2739"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c92935c6fb00d92881fc1941c7b945143d5802de"
+git-tree-sha1 = "4da23933b93e27e5af264aad647b927f5b918136"
 llvm_version = "23"
 os = "windows"
 
     [[LLD_unified.download]]
-    sha256 = "5bfeec019aab5949379305fb0fb7e7c8384977af402a5578fe43a373d473b8f5"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+23.tar.gz"
+    sha256 = "f5db5e5a7888246cff000e4555db079aaf05702a70bb37a64fc1a82a05cce104"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+23.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "64b011c81a97d7b5ed0164f2ed67e29a7d8b90d9"
@@ -1306,7 +1306,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "c1c410d9e76100a94abd428b940ef2c61e4ce7274afb87ef4c40f2b7229632e8"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -1317,7 +1317,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "85de632c5cc88af9428f7be0fefa1f49ad4225b5dae218589145e388fb1fc9ff"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -1328,7 +1328,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "38d455a0772463e10e3efa2cbc11587869ab49252d28c7730a00d10b7b4c9a89"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -1340,7 +1340,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "9a4a5798e4744747fb0ffecef6181922c9b7c3b38784097b613a4b4ba9373e2a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -1352,7 +1352,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "535866ddee8931aca8b34bb078fb53adc7f13b2818d4a515ef9c96b9235ecd7d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1364,7 +1364,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "31e2b6429f9f7d542d81784eb8d3b0190375c3da33c2580f9f2da96cdd5e311e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1376,7 +1376,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d2b98b558ef555c478d73ea013765a10975eb50b209bcbff4339d48ea3c9b947"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1387,7 +1387,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "4b73cd24714aba601e3419470041f19c426b7b8a311844b90d45f12a3b8178f0"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1397,7 +1397,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "56ddabea1f16d8189e4fca64696f1662ea689743910f9cd8c329472e37519916"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1408,7 +1408,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "20de5335667d3774df8cbda184b1cfe928c35e7afa879d3f8cb5af5e1e0ae7e4"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "231757dfaa657913118e259cec8063323fe731ed"
@@ -1417,7 +1417,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "a529f87fd6a780cade1c9baccb2993d5763147da04f026b5fcd34b6b9b1fd4b2"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1428,7 +1428,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "b86dcbb5e96531b0543f023bb0b76b6d631ee27fbcd4f9778b6752b92efe959d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1440,7 +1440,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "b86dcbb5e96531b0543f023bb0b76b6d631ee27fbcd4f9778b6752b92efe959d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1451,7 +1451,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "328f55a7eee1ea5a61d3a188bbc57ae051dd1c8ddfd5f19c83e6e2782dfaefed"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "718ca6a66869e2cc7396e684b78e05a939132c46"
@@ -1460,7 +1460,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "f93aeec2c3636401ca4459a49a7e4ff20c61f721dd36c19c47f9d4629ee7141a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1470,7 +1470,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "2b51eae06ba88164922a9e58d6fe794c58e779beb182b9c72d93141f4fd89fde"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "7b3e6348a7de03e2ce431c81ee77eb107a553de7"
@@ -1479,7 +1479,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "7d3f2d0b93d581389ece80cb1fc2887454b4c6e9570e47ba51ccdb972c4d6a88"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -1490,7 +1490,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "fde63acbc2b66ae8e9e33f38ae0115697db23b7edee85c3c07c91e5931cebf75"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -1501,7 +1501,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "ff4c9b1cee25488b723a46c73ad0db866f41e40f81fda80375a5c462f6600b6a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -1513,7 +1513,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "6a493424d6ad8e51e6f8173d47645e9835d3df4a6a9b9cbf2d4ed651324d269e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -1525,7 +1525,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "ae0d986ac3ae9a6f10164450117fc7f1b5837e1de8c494729a4fc40e6c2bda2d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1537,7 +1537,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "9a4a3d96b03ebbc9fa7872f81ed492a437c47af5321e9a293b4889a7141d3dea"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1549,7 +1549,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "b77e84d293cbbbfc8176f1022615e8592dff7c77ba3eade79604061f3733e5c1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1560,7 +1560,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "89bcbf4cb253c370aae6cbdde61e5f7c80d10ccf71e8aed9a129eff36e672a2d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1570,7 +1570,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "b3dcba8ea702d2b6f941dff38fffe8b693d6d32cd48dccd644b564e93960fb09"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1581,7 +1581,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "ce7da10bfa03573dfd2a6730abf79a8a6a0a25f73d5f6e06b377716c46389f73"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "573ceed4a816e5226fd869b3c4146b4d5316e05e"
@@ -1590,7 +1590,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "705d51930a5d96d6b52cf531df3df56f5af820f2621c3e005979e59a669899d1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1601,7 +1601,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "03f9faed6d27fc6c313895d84091358a326c2685ba6ce58c0cd979d90b386cce"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1613,7 +1613,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "03f9faed6d27fc6c313895d84091358a326c2685ba6ce58c0cd979d90b386cce"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1624,7 +1624,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "a3239ba6691f7ad2c743e1bdf0214d0962e10b184017c8340a3dd0c833685710"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "8eb8009f37676a02b5e83f76e56fd6b84cab5624"
@@ -1633,7 +1633,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "bb36a5707112d3cb8bc044268fac438c6257b2ed0a2820ce49a0bf03b0180fce"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1643,7 +1643,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "8cd69b723f32e9aba7626d98bc25645d7e8a8b08b8bbfc24e2617ffa14384dc2"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "c6d24584ff0f108ea1feb99a0ffa16ea9304edf5"
@@ -1652,7 +1652,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "7c3e537fad9568e4c84e6d54e02b51e3de34ee8c86abcbc9f9f8d2599ede0d37"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -1663,7 +1663,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "6c35a7913a7f47053968b7165680775fad1596612a9f3e735075db7a9f29a864"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -1674,7 +1674,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "e465b84aba8b473aee1a85d019d3742890c1d7025dec1fe32a067ef7f4e692f1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "6abd9937dcf22b4b4643e0eae72779cb521eba0c"
@@ -1683,7 +1683,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "620210e259a5ce6f6717889e5cd4767c6cd6a3ef573e2b5cf443b516706995b1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -1695,7 +1695,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "2ad201675b935be0eca62cbb4a003e67b94ddc10cfa28ea3eb9270cefc204564"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -1707,7 +1707,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "ef04a8b82961a11924a629367b91752a92ee2d29a7de10c05dd9dd312d2637a3"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1719,7 +1719,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "a4d8ba689c89659a04df3e889f9bc568f9979d93895b33bf440ed1e721b1bf11"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1731,7 +1731,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d97a4f5b10d0a39859f8d93a3f9ea3871d94acb3ad95d15ca21915b894c1073a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1742,7 +1742,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "dd69c78661bcf2fd22209b1aec6507193cb1387f11a7b3bfab5f46a8e0ddb63b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1752,7 +1752,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "0d222089b064e6c2e3cf11649e1730cc19ea22b546733923a6688e5586330aee"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1763,7 +1763,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "862d6f7a04e41b1920b233af12ecb447e536d9969443a1bb4248a4b27365fd7c"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "81efa4a0514c134460df61efb3ff57ef1c589363"
@@ -1772,7 +1772,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "59a0d4562ba0c725edad80010b9726f39f604797ec726b43dd120e60c284a311"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1783,7 +1783,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "b112c30fd31b2972ebc149027d258ea07b55bf214c352b560955b932cd22a80f"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1795,7 +1795,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "b112c30fd31b2972ebc149027d258ea07b55bf214c352b560955b932cd22a80f"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1806,7 +1806,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d722c1a4464f47ed026ef8ae01f981657e8c9f1077afea42c04d5a96746dd485"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "4321cb86260c14e855eda81f9a381481c0b7f8f5"
@@ -1815,7 +1815,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "483a89c775d84733895ad53cc407183448caefab20d9b4f24ca866b968b8e874"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1825,7 +1825,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "9ce032ce98785259f8aa48680fb37cab591cf433be141a5066187561904bf04e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "b7b42685eeae68c554b547aa1df1f77ca7d9cb30"
@@ -1834,7 +1834,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "107b101552d2c0f11685959da804e2856bdabbcfdbf46f4c63690d1ae004618f"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -1845,7 +1845,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "95048450f2a7123e14477a31981573f3050bf596b539102e6922499e2f27c82e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -1856,7 +1856,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "ef6847b4f42f5847a7d8f91206dce0852142418f186c8c8dc8fef026b6f909a7"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "80015ed5e75c21504896ba50c4001330891c7ae9"
@@ -1865,7 +1865,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "c9ab4078113d47080c192f27cb737c1777272e670ecbe292903b240af72add4a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -1877,7 +1877,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "f451b4efc32b48f8f90a2cf7b4ee40bda6164ced0bcc1c68413d94a005bc92e0"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -1889,7 +1889,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "9ed6b070b0d7ed4e0a221a93bebe6442cf17d364a021df07f5f806fd8484f60e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1901,7 +1901,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "336a556fb675a2018da1b77a91089454ddc2070b049bb3299936bbb8eec440f8"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1913,7 +1913,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "b42ca97b8510525c413516f3b10451140447b7aa9b8349c624776af1f9aeb42f"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1924,7 +1924,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "0b70a025f8d15b5ed0bc9f7433d18b65032d70764b8ae4200dfd37c5e3780134"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1934,7 +1934,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "329de6167de879cf352d1aec8dd83c69e390b312380f1f4b4687056c2080069f"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1945,7 +1945,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "15fe492d11afa5605633bd5e66d0a37634767386c5e31e1a3484887f07561856"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -1956,7 +1956,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "5b6d58a92bc4ed3c128535d1d89df7cc390365787140ce1f35ca4ccfb05576bd"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.riscv64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.riscv64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "8eedfa47ad1e9ef8b00e0af1b6efe74d546594a3"
@@ -1965,7 +1965,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "cd4e873eaf4baac3561d379d25a5e0c464a2432508f58ba6fd19d26bbf96370a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1976,7 +1976,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "eeb7a66ec8f5267703271e473333385e887c9324104613a044bc37b98b245b53"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1988,7 +1988,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "eeb7a66ec8f5267703271e473333385e887c9324104613a044bc37b98b245b53"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -1999,7 +1999,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "4991cd92bede94ebd7c4eef778769a09a79ff881d07fd742cff774f7915cfcd8"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "e02917b5790a99fdbec119988760584aab645181"
@@ -2008,7 +2008,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "7f3b43ec7b94c0c7b5bb83a4b8e8b4fba3918feefcebf8d7e1d86ccc92f1a222"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2018,7 +2018,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "4fcaafb70a3377cd379f775a30c1b072bc9c1bbb1afa210715a00d07eb95da9d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "14ec4e782dd8eb1c5de00a35dcc437282f7b18f8"
@@ -2027,7 +2027,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "a074905d1ec8fc400685ae46830909d15653f51327583ae44a6670076e19d0cc"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -2038,7 +2038,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "ef668857c8b891ff8a335acbbb6eab450a9571b5a7c2e146f5824c59fa2a0c01"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -2049,7 +2049,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "54d627a08d9178391c0b2d98c1b27a95d52b0178ecd9ea9f1f31cdf44c0d5c12"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "7266f26d47338b2382c598e6bc729d4178a406e0"
@@ -2058,7 +2058,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "8bbc479050f999a4f166c3925b87ebc84dbb3c115f67b23f25d02858b8278b57"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -2070,7 +2070,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "7847a8d7d3fd5ffca8d7b97c023da4605fc6354b944b455d06ab9356ad522901"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -2082,7 +2082,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "1f2fa6674905ad87103e1c38cc30ffc7fca35c9cdf12eae8ce9ae308e8bc39b6"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -2094,7 +2094,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "4c7c0826e944ce0b51fb59e36391ae63f99050f94918f6c2278f8bb0453db470"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -2106,7 +2106,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "f32c5f7faf6cb1505cf762d7292b598a305a86f2744aa87ba2593ae2aa34496e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -2117,7 +2117,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "d6ff29bc61c2813e5d867c6dd3793c5d6d0f6f255518c2e3d9d8c22ae5c604a4"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -2127,7 +2127,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "98e741e151f69512da0f41130af6c4ec0e95cf5e422e31af27d807f6dea97b18"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -2138,7 +2138,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "e3344b57fed52a6c659ac98288569decdc26b19279a088b03f8fb6bbd53a6f37"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -2149,7 +2149,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "06ad2f948d6c07ef112a45ec9c51230802c0b91e107074f79a1a141d135df9f9"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.riscv64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.riscv64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "b8393e7a23cb402f280ac4cc5a722bf7de4135fb"
@@ -2158,7 +2158,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "51f556680d840b7e0dff3b5da9929453a067ed1d0ab17e3ce04374ec61ee7a73"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2169,7 +2169,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "001b082a366741ff5261ccafdb31d5636be4f3978ceda4182abcb47679e3881b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2181,7 +2181,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "001b082a366741ff5261ccafdb31d5636be4f3978ceda4182abcb47679e3881b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2192,7 +2192,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "66c09dec993cddf41c994233a9633f463e4b606a38be86be0a3071aa679a14e5"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "f3a05dc6d2b99338bcd87ecb620c45592eb35e59"
@@ -2201,7 +2201,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "d62b1d26d04db593e5b5cdc0cd1c8f744192eaac08f3e0c19b1b9f387618c466"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2211,7 +2211,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "49afac2a8b403f4f88b251932c6fca6abf44416efb2064e1e207d04bd2378f92"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "af74c948c6250ed62198a470865c0b7529ce8251"
@@ -2220,7 +2220,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "2ffd8484d6228ea4ede40a6ce59f14dccc0398c844fac38eb7ef04249afdfd1b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -2231,7 +2231,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "dd9d71b5266e36f09f0649e8f807c385a358a02003818c7154512dc274d303ed"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -2242,7 +2242,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "2722c2f3f7ed5ebdd3cacc9970f8f746f80aa9fc2fa3a9b78b09bd2be83a8b05"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 git-tree-sha1 = "b45ca30b1b6aa667d3c45f21b1e6359bb9043938"
@@ -2251,7 +2251,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "101469bea8fab5e8bd4f52123baf0bdc6c7941d629a58c40dfeb192ecf7e7a49"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-unknown-freebsd-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-unknown-freebsd-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -2263,7 +2263,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "038006d43d16ca1ba85023c0c93f1edddce91b84e08f16f4c63ea24c05013efb"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -2275,7 +2275,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "b409cd5584d16981086f23faf80f2ce88ce141f92586f63ad99fb81921a4bef0"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -2287,7 +2287,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "2762c8068b5ba2c580e2559d4c0dd51c629469ef9078ae4965de8d0054aa106e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -2299,7 +2299,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "0c6341848dde58ba890097d240565fb3e55f8e8be005471180592ab93b745f66"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -2310,7 +2310,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "06349048675c61fc15fb5a00c883629d62189a8666a29749a8f0bb1c65dc200d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -2320,7 +2320,7 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "bab3d7c8d51506dd5538ddc1c14a652ba8499bc4ac5a53c71ee54161106bef65"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -2331,7 +2331,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "36355a73a940747f907fd0cba9ca0f69f8f9bf60182347cdb9ab26fc8a5a7d2e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -2342,7 +2342,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "73f520abfe1443312489780a01e85b4927be4676755ade24ea8d2fdb05f9d1b8"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.riscv64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.riscv64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "a24df98866d628d7cfdb4175e75852c9e112de6d"
@@ -2351,7 +2351,7 @@ os = "macos"
 
     [[LLD_unified.download]]
     sha256 = "1600d50ad8e59e8706f8d5be95c99d58ffc342b8b2facf4a480a57438fc21045"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2362,7 +2362,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "fcb50892868968d4f7bb1e47708f5312a3e4db945d2ccfc11b51a8cd8dc343d3"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2374,7 +2374,7 @@ sanitize = "memory"
 
     [[LLD_unified.download]]
     sha256 = "fcb50892868968d4f7bb1e47708f5312a3e4db945d2ccfc11b51a8cd8dc343d3"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2385,7 +2385,7 @@ os = "linux"
 
     [[LLD_unified.download]]
     sha256 = "8322624d24075bd7a1a7d281881bf5cde370a68c0783dcd5213d32568788c259"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 git-tree-sha1 = "a7cb4b743f0fbf5b1490133ecf7dd7cbd0b8e81c"
@@ -2394,7 +2394,7 @@ os = "freebsd"
 
     [[LLD_unified.download]]
     sha256 = "f611c21943fcdbdcefe33c9b3f1ade371bf22517f8f46dd53c5c1149fdc6a9be"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2404,197 +2404,197 @@ os = "windows"
 
     [[LLD_unified.download]]
     sha256 = "af3ef6c0285f28c093380bec0427b5b86e731f0eb42c6f827e29290617f5ff9f"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+22.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
-git-tree-sha1 = "48c842ff53157b9c536ff66daf0fae21fdd77746"
+git-tree-sha1 = "a4d661b0f06b74db45cb060462e6a8114d49be20"
 llvm_version = "23.asserts"
 os = "macos"
 
     [[LLD_unified.download]]
-    sha256 = "4464388173a3978e2e573f37d3bc63ba3215c1b82605ae62fd2b51f8ee07098f"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-apple-darwin-llvm_version+23.asserts.tar.gz"
+    sha256 = "ef437e0382a11de6431327119912fb9f365c418a58b2c4ff5da18b7e9f34be92"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-apple-darwin-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "72dd6180b5719cdac05c994e55830e7f385644f0"
+git-tree-sha1 = "f0079d04044179fd55dedb20db8ab885d0101d79"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "004899a5b8d703c8ac4591eb0b4be3f537a0b825791765d66530eee81ffe382a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "80852fb8c906dd3780b13b220cfaa7d68ec09c6e2d32b728539fc870bef47d6d"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cc1b0aceef5e13e48a3980c2d431dd053ae25ddc"
+git-tree-sha1 = "bbc1d1834977addf56dd73478571e8448d91db06"
 libc = "musl"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "4430cfabfa82618c40fe2225c925adf1f43d3d85d9df08679e13b19521db64ce"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "c52c87fc9698d25224a27afa3fe233f72bff15cf607d91ca801c56a33d6a84fb"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "aarch64"
-git-tree-sha1 = "0d16bfd98a784571e23eb6ef5fd14dc2960fca3f"
+git-tree-sha1 = "500ea8ea86fdd40123dbe89e1d7f3def62963822"
 llvm_version = "23.asserts"
 os = "freebsd"
 
     [[LLD_unified.download]]
-    sha256 = "221e54d0ee63938fc82ef2dba08544ed50650ac528129131b1f4ce1656601a18"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.aarch64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
+    sha256 = "b31bb1af1124fe29451c0c74cb6b244904f15188d001b823fa9d91548f8f95ec"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.aarch64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d1bdf2a18c27807d57fadff355959b65ce5bd78c"
+git-tree-sha1 = "f0d55b89b76847db34b1db19300bc8e2c95e266a"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "f052826715c5ee00258638d60efcef488339e182e3f76dbf0c59f0eb80dbdfa5"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "036d49bdfe6fbb7dbba2a5f9d0134db8014ae5c84f745cb275fa44279cb62201"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "78c64210aa9a05a6bd65c1fdfce10028d200ed1c"
+git-tree-sha1 = "ed1abd62713016f5e029c1468ba8db1131697d84"
 libc = "musl"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "0cc49ffea96ef93fae6a69491c2a6e2a3a4e9c23a932a364e8c6a857fe75950b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "bafac2f58fb72dc2493982c8a606ed58feabe8aa9d8a0e566dd4623792e4d681"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a705ddf1ed8f99004f02dabf2d2524ff02a7f75f"
+git-tree-sha1 = "31142364770b608ccb533c4f80897d95220af60e"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "627cc0282ff9fbd86fa7bcb4a61d8c96eb6df8c16ff5913ff01463aca947ae93"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "6445b831f0d536e284590fd94758702a7e7ae5522e5f2651063d5bb6a0a9e0ce"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "50e41678e2aa900ca27c3488ccf7e5ad6e90926c"
+git-tree-sha1 = "dae527c6665def7d98baf2c628c9c141be6c4038"
 libc = "musl"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "b49d877beda3803e6de43c83aaf9d55520bf6c7bfcfc1b585ee31510f54d61f1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "5bff6b05d7ee71b52169adb32b42fa844dfd3ee7f8470e8571ddd0df0849797f"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "03d29819a935f7f114a002914d9d2bc13a81a142"
+git-tree-sha1 = "33b428ea53b135460addb93c65b8d86cc2894260"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "263cc1a2fdea33a8e3811fe3910a9cf95a1c5b26414041b196aed3c64d6f129e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "cde714f686764a2feb4be46f5999cbc7101de48b0f760eb44bff9a9887ff6891"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bb1c731d40331d3fd1444a401c5c43a65718c22f"
+git-tree-sha1 = "2c4e4f39606779f71965c2e62ba68dbb3dc1d663"
 llvm_version = "23.asserts"
 os = "windows"
 
     [[LLD_unified.download]]
-    sha256 = "9f4ca38a04d12e3af3bca94bc9c56ab15618171f723b4c1cfdd7d9e6474a16d8"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "008b1865163a7039b7c3eae5b56477138850e3ece98ac1f7f9fc6906dc98a5c2"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "534eda43fd33e22c6cad64ddff6fe01635ff7e15"
+git-tree-sha1 = "0ddb9efe74cd59f0c8117b602901b22534d7b62f"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "31d25703061f8daab315d8fcadf099c6d925f6c0a1f0451b2fbc605ec6fdd8d9"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "7907b789811c663fc45f729dd2443ed7b80580846b89a0d9b0fe557b092279de"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4481efaafb60aa03b290352cf01caff34512e898"
+git-tree-sha1 = "3fd06f342146be6dedaf1db635b8b32e5e003fff"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "399be65ec5905d1ab3096bac9b664e3f08033b09eda6fbf6082f6653a5616121"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.riscv64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "99afd04e20ebce4e881ee72dd4f9791a65722af8a0328f9268fd14ff13667467"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.riscv64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
-git-tree-sha1 = "1813e570a388ad473794020000eac9395a67a33b"
+git-tree-sha1 = "6089dee4950d77f8523975242aeb2e8c2d438689"
 llvm_version = "23.asserts"
 os = "macos"
 
     [[LLD_unified.download]]
-    sha256 = "5b1a453077eac21b8c39c2464d3e7a6921cfe0340bf33ce6e698403d188c0a8c"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-apple-darwin-llvm_version+23.asserts.tar.gz"
+    sha256 = "4a16630f8a010c3d28c9610dfe7c333bffb5a188fbe2ab406e29683302023a00"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-apple-darwin-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "97827967c2ecf0f776494e02e8d7b7f699dfbb6a"
+git-tree-sha1 = "652e9e83dcb8136bbf6c822f2abc3d258bc7f475"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "7186742c077f6c1a2ae7c40bd7f8b72a0052e83415c19be8a5d25fcd28354cc6"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "ab47a81159f3ed595b92404af8d47f9d41f7456e62277f8b4a2d791bbc709920"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "97827967c2ecf0f776494e02e8d7b7f699dfbb6a"
+git-tree-sha1 = "652e9e83dcb8136bbf6c822f2abc3d258bc7f475"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 sanitize = "memory"
 
     [[LLD_unified.download]]
-    sha256 = "7186742c077f6c1a2ae7c40bd7f8b72a0052e83415c19be8a5d25fcd28354cc6"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+23.asserts.tar.gz"
+    sha256 = "ab47a81159f3ed595b92404af8d47f9d41f7456e62277f8b4a2d791bbc709920"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "78690ddddc9cc782808f3f5573d9522a32687865"
+git-tree-sha1 = "586515b62c7c2daf88f6f05bb3544f06a4e16112"
 libc = "musl"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLD_unified.download]]
-    sha256 = "a76792beb074e01c23ce076f78c888362de1db16288c6b9415a67bc6d6574ab2"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "67f4ec2a5954918f376ce2be6959c13149bb139bb37f39561a141372e416d01b"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
-git-tree-sha1 = "112e403faf22e4ea39b787c1574b3972ab5aded3"
+git-tree-sha1 = "a1b0e0aa2f9e37f3ed09c3343007a68e40567c08"
 llvm_version = "23.asserts"
 os = "freebsd"
 
     [[LLD_unified.download]]
-    sha256 = "c679c5dbd011a60b9a4ea18aa53414eab7f558441c929bb55bc7e02fbfa3f9ae"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
+    sha256 = "e2683811cf323f70c5e6a7f6650d580cfee027ec70f1a90a7ba82614b75e262a"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
 [[LLD_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f5195354af4cadaae24f3eb677fc9b8cf5422ac1"
+git-tree-sha1 = "e8f67a3b02e7a1549f7312d8ea56b098a308b61e"
 llvm_version = "23.asserts"
 os = "windows"
 
     [[LLD_unified.download]]
-    sha256 = "12e13eafa856ddf59763e9a139aba4c86a5e89023a5d8c958ab5ddebcbbbb35b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.5+0/LLD_unified.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "3d077a1069c4d0fb916c03c1521123a669f860410c8801c0d0ed1cfbb7b71197"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_unified_jll.jl/releases/download/LLD_unified-v0.1.6+0/LLD_unified.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
